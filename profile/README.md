@@ -1,6 +1,11 @@
 ## Mirage
 
-They said total transparency was the future. We said Mirage.
+They called transparency the future. We built Mirage.
 
-Mirage offers permissionless probabilistic privacy on Ethereum Layer 1. A peer-to-peer network with no need for a new chain or rollup.
+Mirage enables permissionless, probabilistic privacy on Ethereum Layer 1. No new chain. No rollup. No trust assumptions.
 
+We are building privacy for the millions who stay off-chain. By design. Not by compromise.
+
+### Jobs
+
+We are actively hiring talented engineers and researchers to break and build Mirage. Check our open positions [here](https://github.com/MiragePrivacy/jobs).
