@@ -1,11 +1,28 @@
-## Mirage
+# Mirage
 
-They called transparency the future. We built Mirage.
+**The best privacy solution is the one people use.
+Stablecoin privacy at scale. Built for the future of digital payments.**
 
-Mirage enables permissionless, probabilistic privacy on Ethereum Layer 1. No new chain. No rollup. No trust assumptions.
+Mirage enables private stablecoin transactions on Ethereum without shared pools, without obvious privacy contracts, and without regulatory exposure. When you transact through Mirage, your on-chain footprint is indistinguishable from ordinary Ethereum activity. No one can tell you used a privacy protocol.
 
-We are building privacy for the millions who stay off-chain. By design. Not by compromise.
+## Links
 
-### Jobs
+- [App](https://mirageprivacy.com)
+- [Documentation](https://docs.mirageprivacy.com)
+- [Blog](https://blog.mirageprivacy.com)
+- [X](https://x.com/mirageprivacy)
+- [Discord](https://discord.gg/FCcKwPyBxV)
 
-We are actively hiring talented engineers and researchers to break and build Mirage. Check our open positions [here](https://github.com/MiragePrivacy/jobs).
+## Repositories
+
+| Repository | Description |
+|---|---|
+| [azoth](https://github.com/MiragePrivacy/azoth) | Deterministic EVM bytecode obfuscator written in Rust. Makes execution contracts indistinguishable from ordinary unverified deployments. |
+| [escrow](https://github.com/MiragePrivacy/escrow) | Escrow contract used to facilitate fair compensation for Nomad executor nodes. |
+| [blink](https://github.com/MiragePrivacy/blink) | Fast contract bytecode indexer for Ethereum. Extracts contract creation data to Parquet files. |
+| [blog](https://github.com/MiragePrivacy/blog) | Archive of all posts published by the Mirage core team. |
+| [jobs](https://github.com/MiragePrivacy/jobs) | Open positions at Mirage. |
+
+## Work with us
+
+We are actively hiring engineers and researchers. See our [open positions](https://github.com/MiragePrivacy/jobs).
