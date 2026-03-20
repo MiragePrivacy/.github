@@ -7,6 +7,7 @@ Mirage enables private stablecoin transactions on Ethereum without shared pools,
 
 ## Links
 
+- [Waitlist](https://waitlist.mirageprivacy.com)
 - [App](https://mirageprivacy.com)
 - [Documentation](https://docs.mirageprivacy.com)
 - [Blog](https://blog.mirageprivacy.com)
@@ -25,4 +26,4 @@ Mirage enables private stablecoin transactions on Ethereum without shared pools,
 
 ## Work with us
 
-We are actively hiring engineers and researchers. See our [open positions](https://github.com/MiragePrivacy/jobs).
+See [open positions](https://github.com/MiragePrivacy/jobs).
